@@ -7,6 +7,7 @@
 
 <p align="center">
   <img src="./assets/1.png" alt="Demo" width="800" />
+  <img src="./assets/2.png" alt="Demo" width="800" />
 </p>
 
 [DEMO](https://app-chatapp.herokuapp.com/)
